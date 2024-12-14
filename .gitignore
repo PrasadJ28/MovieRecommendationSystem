@@ -2,5 +2,4 @@ node_modules/
 .vscode/
 .venv/
 ml-32m/
-*.keras
 *.pth
